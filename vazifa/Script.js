@@ -70,7 +70,7 @@
 
 // 1.
 // var arr = [1,2,3,5,7]
-// ar.filter(function (value) {
+// arr.filter(function (value) {
 //     return value % 2 === 0
 //     })
 
